@@ -48,3 +48,5 @@ paragraphs = divSouAlunoContent.findAll('p')
 print('\n', 'SOU ALUNO')
 for paragraph in paragraphs:
     print(paragraph.text)
+
+
