@@ -1,0 +1,80 @@
+
+O link do ChatGTP com o prompt e resultado 
+https://chatgpt.com/share/6790ca23-9f64-8005-82f0-7ead0f7126c0
+
+
+Preciso estruturar o arquivo em anexo com nome 'texto_extraido.txt'. Esse arquivo deve ser estruturado da seguinte maneira:
+* Titulo do curso: Especialização em XXXX, onde XXXX é o nome do curso que está no arquivo.
+* Quantidade de horas do curso.
+* Inicio das aulas prevista para XX, onde XX é a data prevista que está no arquivo.
+* Modalidade de ensino: presencial ou remoto, no arquivo está definido.
+* Mensalidade do curso, está no arquivo como Taxa de matrícula.
+* Sobre o curso, detalha informaçoes do curso.
+* Objetivos especificos do curso, extrai a mesma informaçao do arquivo.
+* Horários das aulas 
+* Local das aulas
+* No item "Confira a grade do curso" transforme os dados em uma tabela com as seguintes colunas: Disciplina, Professor e carga horária.
+* Para mais informações entre em contato com os telefones e emails presentes no arquivo. 
+Lembrando que as demais informações do arquivo devem ser ignoradas. 
+
+----------------------------------------------------------------------------------------
+
+Resultado 
+
+Segue a estruturação do texto extraído do arquivo:
+
+---
+
+**Título do curso**  
+Especialização em Construção Civil
+
+**Quantidade de horas do curso**  
+456 horas
+
+**Início das aulas**  
+Previsto para 01/04/2025
+
+**Modalidade de ensino**  
+100% Presencial
+
+**Mensalidade do curso**  
+R$ 600,00/mensal (Taxa de matrícula no boleto ou cartão de crédito)
+
+**Sobre o curso**  
+O curso de Especialização em Construção Civil é a oportunidade ideal para engenheiros e arquitetos que buscam se destacar no mercado da construção civil. Oferecido pela Universidade Federal de Goiás (UFG), o curso une teoria e prática para atender à crescente demanda por atualização em técnicas construtivas, novos materiais e gestão de obras na região Centro-Oeste.  
+Este curso proporciona uma experiência prática em temas como tecnologia de construção, conforto ambiental, gerenciamento de qualidade, patologia e terapia de obras, além de desempenho térmico e acústico das edificações. Suas aulas combinam teoria em sala e práticas em canteiros de obras reais, preparando os profissionais para os desafios do mercado.
+
+**Objetivos específicos do curso**  
+O curso visa especializar profissionais com foco em:  
+a) Técnicas modernas de construção civil;  
+b) Gerenciamento de obras e controle de qualidade;  
+c) Sustentabilidade e desempenho de edificações;  
+d) Aplicação prática de conhecimentos em projetos reais.
+
+**Horários das aulas**  
+- Sextas-feiras: 18h30 às 22h  
+- Sábados: 8h às 12h e 13h30 às 17h  
+
+**Local das aulas**  
+Centro de Aulas da Engenharia, Campus Colemar Natal e Silva, UFG.
+
+**Grade do curso**  
+
+| **Disciplina**                                  | **Professor**                       | **Carga Horária** |
+|------------------------------------------------|-------------------------------------|-------------------|
+| Metodologia de pesquisa                        | Marcus André Siqueira Campos        | 60 horas          |
+| Produção de estruturas de concreto e controle tecnológico | Oswaldo Cascudo                     | 24 horas          |
+| Argamassas e revestimentos                     | Helena Carasek Cascudo              | 24 horas          |
+| Patologia e terapia das construções            | Oswaldo Cascudo e Helena Carasek Cascudo | 24 horas          |
+| Alvenaria estrutural                           | Luiz Roberto Prudêncio Junior       | 20 horas          |
+| Paredes de concreto e estruturas pré-moldadas  | Claudius de Sousa Barbosa           | 20 horas          |
+| Sistemas de gestão e certificações ambientais  | Tatiana Gondim do Amaral            | 20 horas          |
+| Mercado Imobiliário                            | Maria Carolina Brandstetter         | 24 horas          |
+| Construção Enxuta                              | Maria Silva e José do Carmo         | 20 horas          |
+| Medição de desempenho e produtividade          | Maria Silva e José do Carmo         | 20 horas          |
+
+**Para mais informações, entre em contato:**  
+- Telefone: (62) 3209-6099 / (62) 3521-1076  
+- E-mail: marcus_campos@ufg.br / escoladepos@ufg.br  
+
+Caso precise de ajustes ou formatação adicional, posso ajudar!

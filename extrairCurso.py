@@ -13,15 +13,15 @@ if response.status_code == 200:
     soup = BeautifulSoup(response.text, "html.parser")
 
     # Extraindo apenas o texto da página
-    texto = soup.get_text(
-        strip=True
-    )  # Extrai o texto completo, removendo espaços extras
+    # texto = soup.get_tepyxt(
+    #     strip=True
+    # )  # Extrai o texto completo, removendo espaços extras
 
     # Salvando o texto extraído em um arquivo .txt (opcional)
     with open("texto_extraido.txt", "w", encoding="utf-8") as arquivo:
-        arquivo.write(texto)
+        arquivo.write(soup.text + "\n")
 
     print("Texto extraído com sucesso!")
-    print(texto[:500])  # Exibindo os primeiros 500 caracteres do texto extraído
+    #print(texto[:500])  # Exibindo os primeiros 500 caracteres do texto extraído
 else:
     print(f"Erro ao acessar o site. Código HTTP: {response.status_code}")
